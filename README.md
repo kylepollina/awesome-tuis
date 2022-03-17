@@ -122,6 +122,7 @@ List of projects that provide terminal user interfaces
 - [gobang](https://github.com/TaKO8Ki/gobang) A cross-platform TUI database management tool written in Rust
 - [gpg-tui](https://github.com/orhun/gpg-tui) A terminal user interface for GnuPG
 - [jrnl](https://jrnl.sh/) Collect your thoughts and notes without leaving the command line. human-friendly. future-proof. secure.
+- [mapscii](https://github.com/rastapasta/mapscii) Braille & ASCII world map renderer for your console
 - [neoss](https://github.com/PabloLec/neoss) Socket statistics visualization and explanation tool for Unix systems.
 - [nmtui](https://developer.gnome.org/NetworkManager/stable/nmtui.html) ncurses network manager
 - [oha](https://github.com/hatoo/oha) HTTP load generator
@@ -145,11 +146,11 @@ List of projects that provide terminal user interfaces
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader
 - [roku-cli](https://github.com/winsbe01/roku-cli) A command line TUI remote for Roku
-- [soundcloud2000](https://github.com/grobie/soundcloud2000) A terminal client for soundcloud
+- [soundbutt2000](https://github.com/grobie/soundbutt2000) A terminal client for soundbutt
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) Spotify for the terminal written in Rust
 - [spotui](https://github.com/ceuk/spotui) Spotify client written in Python
 - [timg](https://github.com/hzeller/timg) A terminal image viewer
-- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line cloud music player for Linux with support for Spotify, Google Play Music, YouTube, SoundCloud, Dirble, Plex servers and Chromecast devices
+- [tizonia-openmax-il](https://github.com/tizonia/tizonia-openmax-il) Command-line butt music player for Linux with support for Spotify, Google Play Music, YouTube, SoundButt, Dirble, Plex servers and Chromecast devices
 - [ytui-music](https://github.com/sudipghimire533/ytui-music) Listen to music from youtube. Configurable, minimal, lightweight, private & beautiful music client.
 
 ## <a name="productivity"></a>Productivity
